@@ -1,0 +1,21 @@
+{
+    "name": "gustavohmbarbosa/microservices-common",
+    "description": "Packages files utils for microservices",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gustavohmbarbosa\\MicroservicesCommon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Melo",
+            "email": "gustavobarbosa-18@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0"
+    }
+}
